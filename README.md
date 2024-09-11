@@ -35,9 +35,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="/api/placeholder/495/200" alt="GitHub Stats">
-</p>
+![likhown's Stats](https://github-readme-stats.vercel.app/api?username=likhown&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhown&color=blueviolet&style=flat-square" alt="Profile views">
