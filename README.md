@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/api/placeholder/150/150" alt="Likhon Sheikh" style="border-radius:50%;">
+  <img src="https://github.com/likhown/likhown/blob/main/Black.png?raw=true" alt="Likhon Sheikh" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Likhon Sheikh</h1>
