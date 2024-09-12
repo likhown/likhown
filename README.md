@@ -32,11 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhown&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150">
 </p>
 
-<h3 align="center">🧑‍💻 Random Dev Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhown&color=blueviolet&style=flat-square" alt="Profile views">
