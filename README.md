@@ -42,5 +42,3 @@
   <a href="https://www.buymeacoffee.com/likhown"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   <a href="https://ko-fi.com/likhown"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
 </p>
-
-<p align="center">Let's build something extraordinary together! 🚀</p>
