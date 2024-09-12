@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likhown&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="150">
