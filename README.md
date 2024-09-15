@@ -29,9 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhown&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150">
 
 
-  <!-- Trophies -->
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=likhown&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
   <!-- Streak Stats -->
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=likhown&theme=tokyonight&hide_border=true)
 
