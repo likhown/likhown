@@ -38,5 +38,5 @@
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/likhown)
 
   <!-- Visit Counter -->
-  [![Profile Views](https://visitcount.itsvg.in/api?id=likhown&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  [![Profile Views](https://visitcount.itsvg.in/api?id=likhown&label=Profile%20Views&icon=5&pretty=false)](https://t.me/likhown)
 </div>
