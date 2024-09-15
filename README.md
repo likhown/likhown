@@ -11,7 +11,7 @@
   **⚙︎ Full-stack ┆ TypeScript, Python, React, Node.js, Rust, SQL, Solidity**
 
 <!-- Social Media Links -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/likhown)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+swJ9dofjUblmZTI1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhown)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likhown)
 
