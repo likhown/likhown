@@ -4,9 +4,6 @@
     <img src="https://raw.githubusercontent.com/likhown/likhown/main/Scripters%20—%20Buy%20digital%20goods!.png" alt="Likhon Sheikh" style="border-radius:50%;">
   </p>
 
-  <!-- Name -->
-  # Likhon Sheikh
-
   <!-- Description -->
   **⚙︎ Full-stack ┆ TypeScript, Python, React, Node.js, Rust, SQL, Solidity**
 
