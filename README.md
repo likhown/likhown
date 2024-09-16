@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Profile Image -->
   <p align="center">
-    <img src="https://github.com/likhown/likhown/blob/main/Black.png?raw=true" alt="Likhon Sheikh" style="border-radius:50%;">
+    <img src="https://raw.githubusercontent.com/likhown/likhown/main/Scripters%20—%20Buy%20digital%20goods!.png" alt="Likhon Sheikh" style="border-radius:50%;">
   </p>
 
   <!-- Name -->
